@@ -16,6 +16,7 @@ import javax.persistence.Id;
 public class Cliente {
     
     private String nome;
+    private String teste;
     private String End;
     private int idade;
     @Id
